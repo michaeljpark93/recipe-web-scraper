@@ -1,0 +1,1676 @@
+[
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apricot-glazed-Spareribs-2663704",
+    "recipeName": "Apricot-glazed Spareribs",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "6 pounds pork spareribs (cut into 2-rib portions)",
+      "4 cloves garlic (crushed)",
+      "water",
+      "1 cup apricot preserves (Smucker's\u00ae)",
+      "1 / 4 cup chopped onion",
+      "1 / 4 cup ketchup",
+      "2 tablespoons firmly packed brown sugar",
+      "1 tablespoon Crisco Pure Vegetable Oil",
+      "1 teaspoon soy sauce",
+      "1 teaspoon ground ginger",
+      "1 / 2 teaspoon salt"
+    ],
+    "ratings": 0.0,
+    "cookTime": "85 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Yogurt-Fruit-Smoothies-2663490",
+    "recipeName": "Yogurt Fruit Smoothies",
+    "recipePhoto": "https://lh3.googleusercontent.com/0GyJlAGTrJT9y7pvqEKzEOQpwEphu9tnmFGUO_shYndkonoKduam5a7PHw4A9RKFbxgt1wHOXDCaEdUIygys=s640-c-rw-v1-e365",
+    "ingredients": [
+      "5 5 / 16 ounces vanilla Greek yogurt",
+      "1 / 3 cup milk",
+      "1 / 2 cup strawberry preserves (Smucker's\u00ae Sugar Free)",
+      "6 ice cubes"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Strawberry-Cheesecake-Baked-French-Toast-Casserole-2436600",
+    "recipeName": "Strawberry Cheesecake Baked French Toast Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound day-old challah bread",
+      "1 cup strawberries (fresh)",
+      "8 eggs",
+      "1 / 2 cup sugar",
+      "1 7 / 8 cups whole milk",
+      "1 1 / 2 teaspoons vanilla extract (divided)",
+      "1 / 8 teaspoon salt",
+      "4 ounces cream cheese (softened)",
+      "1 / 4 cup powdered sugar",
+      "powdered sugar (for dusting)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "60 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/5-Ingredient-Pound-Cake-2465588",
+    "recipeName": "5-Ingredient Pound Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup salted butter (softened)",
+      "1 cup granulated sugar",
+      "4 large eggs",
+      "1 3 / 4 cups all purpose flour",
+      "1 / 2 teaspoon baking powder"
+    ],
+    "ratings": 4.5,
+    "cookTime": "92 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Pb-and-J-Burrito-2663682",
+    "recipeName": "Pb and J Burrito",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 soft flour tortilla (8-inch)",
+      "3 tablespoons Jif Creamy Peanut Butter",
+      "2 tablespoons jam (Smucker's\u00ae Strawberry Preserves, or your favorite Smucker's, or preserves)",
+      "1 banana"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cinnamon-French-Toast-Sticks-with-Pb-and-J-2663699",
+    "recipeName": "Cinnamon French Toast Sticks with Pb and J",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 slices frozen French toast sticks (unseparated)",
+      "1 teaspoon cinnamon sugar",
+      "2 tablespoons Jif Creamy Peanut Butter",
+      "2 tablespoons Smucker's Seedless Strawberry Jam"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Banana-Cinnamon-Toast-2663408",
+    "recipeName": "Banana Cinnamon Toast",
+    "recipePhoto": "https://lh3.googleusercontent.com/4BEtXPn64bDv_mxkgnoO1DG5iT9fIlT5plDVHlAnNDnvLBqNC8gZbGvSOpaENDptiSlcPuuHVsla3w1TWG9eTA=s640-c-rw-v1-e365",
+    "ingredients": [
+      "1 rice cake (caramel corn flavor)",
+      "2 tablespoons Smucker's Natural Creamy Peanut Butter",
+      "6 banana (slices)",
+      "1 tablespoon caramel (Smucker's\u00ae Sugar Free, Flavored Topping)",
+      "ground cinnamon"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Grilled-Pork-Chops-with-Basil-Garlic-Rub-2261216",
+    "recipeName": "Grilled Pork Chops with Basil-Garlic Rub",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "4 bone-in pork chops (Ribeye, 3/4-Inch Thick)",
+      "2 cloves garlic (Peeled)",
+      "1 cup fresh basil (Packed)",
+      "2 tablespoons lemon juice (Fresh)",
+      "2 tablespoons extra virgin olive oil",
+      "1 teaspoon coarse salt",
+      "1 / 2 teaspoon black pepper (Freshly Ground)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "40 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Quick-Orange-Beef-Stir-fry-2663669",
+    "recipeName": "Quick Orange Beef Stir-fry",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "10 3 / 4 ounces Asian vegetable medley (frozen steam-in-the-bag lightly sauced)",
+      "1 / 3 cup fruit spread (Smucker\u2019s\u00ae Natural Orange Marmalade)",
+      "2 tablespoons soy sauce",
+      "1 tablespoon Crisco Pure Vegetable Oil",
+      "1 / 2 pound beef sirloin (boneless, cut into thin strips)",
+      "2 teaspoons minced garlic",
+      "cooked rice"
+    ],
+    "ratings": 0.0,
+    "cookTime": "20 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Spinach-and-Artichoke-Dip-2661869",
+    "recipeName": "Spinach and Artichoke Dip",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "14 ounces artichoke hearts (drained and chopped)",
+      "10 ounces frozen spinach (chopped, thawed and drained)",
+      "1 cup mayonnaise",
+      "1 cup grated parmesan cheese",
+      "2 1 / 2 cups shredded Monterey Jack cheese"
+    ],
+    "ratings": 2.0,
+    "cookTime": "30 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Iced-Caramel-Macchiato-2663646",
+    "recipeName": "Iced Caramel Macchiato",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 donuts (Dunkin', \u00ae Caramel Coffee Cake Artificially Flavored K-Cup\u00ae pod)",
+      "1 / 3 cup coffee creamer (sweet and creamy)",
+      "ice cubes",
+      "whipped cream",
+      "Smucker's Sundae Syrup Caramel Flavored Syrup"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Frozen-Caramel-Coffee-Slushies-2663631",
+    "recipeName": "Frozen Caramel Coffee Slushies",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 4 cup ground coffee (strong brewed Folgers\u00ae Coffeehouse Blend, chilled)",
+      "2 tablespoons Smucker's Sundae Syrup Caramel Flavored Syrup (plus additional for garnish)",
+      "1 / 4 cup flavored coffee creamer (vanilla-)",
+      "2 cups ice cubes",
+      "whipped cream",
+      "coarse sea salt"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cherry-Cream-Cheese-Bars-2663650",
+    "recipeName": "Cherry Cream Cheese Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "1 cup sugar",
+      "1 1 / 2 cups butter (softened)",
+      "3 large egg yolks",
+      "3 1 / 4 cups Martha White All-Purpose Flour",
+      "1 / 4 teaspoon salt",
+      "8 ounces cream cheese (softened)",
+      "1 egg",
+      "1 cup cherry preserves (Smucker's\u00ae)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "80 Minutes",
+    "serve": 36
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Chocolate-Oatmeal-Peanut-Butter-Banana-Smoothie-2663593",
+    "recipeName": "Chocolate Oatmeal Peanut Butter Banana Smoothie",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 1 / 4 cups apple juice (chilled)",
+      "1 / 2 cup old-fashioned rolled oats",
+      "1 / 3 cup Smucker's Natural Creamy Peanut Butter (stirred)",
+      "1 banana (large, 6 oz., peeled and sliced)",
+      "2 tablespoons pure maple syrup",
+      "1 / 8 teaspoon cinnamon",
+      "1 / 2 cup ice cubes",
+      "sundae syrup",
+      "chocolate-flavored syrup"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Hot-Fudge-Brownie-Dessert-2663634",
+    "recipeName": "Hot Fudge Brownie Dessert",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "36 3 / 4 ounces Pillsbury Family Size Chocolate Fudge Brownie Mix",
+      "1 cup Land O Lakes Butter (melted)",
+      "1 cup brewed coffee (strong, at room temperature)",
+      "4 eggs (EGGLAND\u2019S BEST)",
+      "3 / 4 cup chopped pecans (Fisher\u00ae Chef's Naturals\u00ae)",
+      "14 ounces Eagle Brand Sweetened Condensed Milk",
+      "11 3 / 4 ounces hot fudge topping (Smucker's\u00ae)",
+      "8 ounces frozen whipped topping (thawed)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "55 Minutes",
+    "serve": 16
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Classic-Monte-Cristo-Sandwich-2663248",
+    "recipeName": "Classic Monte Cristo Sandwich",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 large eggs",
+      "1 / 4 cup milk",
+      "1 / 4 teaspoon salt",
+      "1 / 8 teaspoon pepper",
+      "1 tablespoon dijon mustard",
+      "4 slices Texas toast (thick-sliced white bread)",
+      "4 swiss cheese (deli-style slices)",
+      "4 roasted turkey breast (deli-style slices)",
+      "2 baked ham (deli-style slices)",
+      "6 tablespoons Smucker's Seedless Red Raspberry Jam (divided)",
+      "2 tablespoons butter (divided)",
+      "2 teaspoons powdered sugar"
+    ],
+    "ratings": 5.0,
+    "cookTime": "25 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/No-bake-Peanut-Butter-Cookies-2663648",
+    "recipeName": "No bake Peanut Butter Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup turbinado sugar",
+      "1 1 / 4 cups sugar",
+      "1 / 4 cup butter",
+      "1 / 4 cup milk",
+      "3 / 4 cup Smucker's Natural Creamy Peanut Butter",
+      "1 teaspoon vanilla extract",
+      "1 3 / 4 cups quick-cooking rolled oats"
+    ],
+    "ratings": 4.0,
+    "cookTime": "30 Minutes",
+    "serve": 24
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Meatball-Parmesan-Casserole-2626493",
+    "recipeName": "Meatball Parmesan Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/8H_kR4fF6IE517FKDHGOyVHEgNmmCdhX_Yz2YfxIDJgCQoU_NJ-hw_FJ1jEolQPPAfoKuKMw4jYjJK512gTyfQ=s640-c-rw-v1-e365",
+    "ingredients": [
+      "1 bag frozen meatballs (cooked according to package directions)",
+      "pasta sauce",
+      "2 cups shredded mozzarella cheese",
+      "1 cup shredded parmesan cheese",
+      "Italian seasoning (to taste)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "15 Minutes",
+    "serve": 7
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Simple-Skillet-Green-Beans-2352743",
+    "recipeName": "Simple Skillet Green Beans",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 tablespoons extra virgin olive oil",
+      "1 / 2 teaspoon red pepper flake (or to taste)",
+      "1 1 / 2 pounds green beans (trimmed)",
+      "2 cloves garlic (minced)",
+      "1 / 2 teaspoon coarse kosher salt",
+      "2 tablespoons water"
+    ],
+    "ratings": 4.5,
+    "cookTime": "15 Minutes",
+    "serve": 5
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Curry-Coconut-Oil-Roasted-Cauliflower-2684152",
+    "recipeName": "Curry Coconut Oil Roasted Cauliflower",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 bag cauliflower florets (1 lb.)",
+      "1 1 / 2 tablespoons coconut oil (melted)",
+      "1 / 2 teaspoon salt",
+      "1 / 8 teaspoon black pepper",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander"
+    ],
+    "ratings": 0.0,
+    "cookTime": "28 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Oven-braised-Brisket-2663222",
+    "recipeName": "Oven-braised Brisket",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "4 pounds beef brisket (trimmed)",
+      "1 / 2 cup concord grape jam (Smucker's\u00ae)",
+      "1 / 2 cup chili sauce",
+      "1 / 3 cup water",
+      "1 ounce onion soup mix"
+    ],
+    "ratings": 0.0,
+    "cookTime": "6 Hours",
+    "serve": 9
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Pb-and-J-Fruit-Kabobs-2663671",
+    "recipeName": "Pb and J Fruit Kabobs",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "3 slices white bread (or whole wheat bread)",
+      "1 tablespoon Jif Creamy Peanut Butter",
+      "1 tablespoon Smucker's Seedless Strawberry Jam",
+      "strawberries (Large fresh, halved)",
+      "seedless green grapes"
+    ],
+    "ratings": 5.0,
+    "cookTime": "15 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Decadent-Peanut-Butter-Pie-2663638",
+    "recipeName": "Decadent Peanut Butter Pie",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup Jif Creamy Peanut Butter (plus 2 tablespoons, divided)",
+      "8 ounces cream cheese (softened)",
+      "1 / 2 cup sugar",
+      "12 ounces frozen whipped topping (4 1/2 cups, thawed and divided)",
+      "1 chocolate pie crust (prepared)",
+      "11 3 / 4 ounces hot fudge topping (Smucker's\u00ae, divided)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "14 Minutes",
+    "serve": 8
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Zucchini-Crust-Pizza-2690350",
+    "recipeName": "Zucchini Crust Pizza",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups zucchini (packed freshly shredded raw)",
+      "1 large egg",
+      "1 / 4 cup shredded parmesan cheese (freshly)",
+      "1 / 8 teaspoon black pepper",
+      "1 / 4 cup almond flour (superfine, you can use all purpose flour if you are not doing strict low carb)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "60 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apple-Raspberry-Juice-2663624",
+    "recipeName": "Apple Raspberry Juice",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 2 cup Smucker's Seedless Red Raspberry Jam",
+      "4 cups apple juice",
+      "2 teaspoons lemon juice",
+      "ice cubes"
+    ],
+    "ratings": 0.0,
+    "cookTime": "3 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Sweet-and-Spicy-Meatballs-2663653",
+    "recipeName": "Sweet and Spicy Meatballs",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 blueberry syrup (12 fl. oz. bottle Smucker's\u00ae)",
+      "1 / 2 cup chili sauce",
+      "18 ounces cooked meatballs (frozen bite-size fully, thawed)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "14 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Asian-Sesame-Roasted-Broccoli-2684141",
+    "recipeName": "Asian Sesame Roasted Broccoli",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 bag broccoli florets (1 lb.)",
+      "3 tablespoons tamari sauce",
+      "2 tablespoons sesame oil",
+      "1 tablespoon brown sugar",
+      "1 / 2 teaspoon crushed red pepper (optional)",
+      "1 tablespoon toasted sesame seeds"
+    ],
+    "ratings": 2.0,
+    "cookTime": "30 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cuban-French-Toast-2663685",
+    "recipeName": "Cuban French Toast",
+    "recipePhoto": "https://lh3.googleusercontent.com/S2_mclzGnXP9kD1fXa6pJUav32ESR0nZ4IbLF2GIjVnIl_PuOAruZGu-68uQZNZJX_1ssCJ2NnBLLpZ2kO1oodQ=s640-c-rw-v1-e365",
+    "ingredients": [
+      "3 / 4 cup sugar",
+      "1 1 / 2 teaspoons ground cinnamon",
+      "3 large eggs",
+      "12 ounces PET Evaporated Milk",
+      "1 / 4 cup Smucker's Sweet Orange Marmalade",
+      "1 tablespoon vanilla extract",
+      "8 ounces Cuban bread (or French bread baguette)",
+      "2 tablespoons Crisco Pure Canola Oil",
+      "14 ounces Eagle Brand Sweetened Condensed Milk"
+    ],
+    "ratings": 0.0,
+    "cookTime": "35 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Copycat-Crunchwrap-Supreme-2361243",
+    "recipeName": "Copycat Crunchwrap Supreme",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "5 flour tortillas (10-inch)",
+      "1 pound taco meat (1 lb ground beef prepared with one taco seasoning packet or my homemade taco seasoning mix)",
+      "3 / 4 cup cheese (nacho)",
+      "5 tostada shells",
+      "1 / 3 cup sour cream",
+      "3 / 4 cup shredded lettuce",
+      "1 / 3 cup tomato (chopped)",
+      "1 flour tortilla (10-inch)",
+      "1 / 2 cup taco meat",
+      "2 teaspoons cheese (nacho)",
+      "1 tostada shell",
+      "1 tablespoon sour cream",
+      "2 tablespoons shredded lettuce",
+      "1 tablespoon tomato (chopped)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "40 Minutes",
+    "serve": 5
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Sweet-Tomato-Salsa-2663517",
+    "recipeName": "Sweet Tomato Salsa",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "5 roma tomatoes (medium, seeded and diced)",
+      "3 green onions (thinly sliced, with rings separated)",
+      "1 / 2 teaspoon salt",
+      "1 / 4 cup red raspberry preserves (Smucker's\u00ae)",
+      "2 teaspoons fresh cilantro (minced)",
+      "tortilla chips"
+    ],
+    "ratings": 0.0,
+    "cookTime": "15 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Ice-Cream-Tacos-2663717",
+    "recipeName": "Ice Cream Tacos",
+    "recipePhoto": "https://lh3.googleusercontent.com/IrCjHsSmW2-3ct0lmkkw55GCaVgdGXOK3f9k1Vkxt2WTKO4lZ-CqTn_6XYjpzNgL5RW3klf11UbQdIKKdWcW=s640-c-rw-v1-e365",
+    "ingredients": [
+      "2 cups Hungry Jack Complete Buttermilk Pancake & Waffle Mix (Just Add Water)",
+      "pancake mix (Additional ingredients to prepare, per package instructions for waffles)",
+      "5 tablespoons shell (Smucker's\u00ae Magic, \u00ae Chocolate Flavored Topping)",
+      "1 quart vanilla ice cream",
+      "3 tablespoons Smucker's Simple Delight Salted Caramel Topping",
+      "1 / 4 cup chopped peanuts",
+      "1 / 4 cup chocolate cookies (crushed)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "45 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Jam-Yogurt-Cups-2663327",
+    "recipeName": "Jam Yogurt Cups",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 tablespoon Smucker's Strawberry Preserves (or your favorite variety)",
+      "1 / 2 cup plain yogurt",
+      "2 tablespoons granola"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Honey-Balsamic-Glazed-Brussels-Sprouts-2684149",
+    "recipeName": "Honey Balsamic Glazed Brussels Sprouts",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 bag Brussels sprouts (1 lb.)",
+      "1 clove garlic",
+      "1 tablespoon olive oil",
+      "1 / 4 teaspoon salt",
+      "1 / 8 teaspoon black pepper",
+      "3 tablespoons balsamic vinegar",
+      "1 1 / 2 teaspoons honey"
+    ],
+    "ratings": 0.0,
+    "cookTime": "30 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Asian-Peanut-Noodles-2663491",
+    "recipeName": "Asian Peanut Noodles",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 ounces spaghetti",
+      "3 tablespoons chunky peanut butter (Smucker's\u00ae Natural, stirred)",
+      "1 / 4 cup soy sauce",
+      "1 tablespoon chili oil (Asian)",
+      "1 / 4 cup rice vinegar",
+      "2 tablespoons brown sugar",
+      "4 green onions (sliced diagonally into 1/4-inch slices)",
+      "1 / 4 cup red bell pepper (chopped)",
+      "2 tablespoons toasted sesame seeds (for garnish)"
+    ],
+    "ratings": 5.0,
+    "cookTime": "30 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apple-Butter-Meat-Loaf-2663322",
+    "recipeName": "Apple Butter Meat Loaf",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 large egg",
+      "1 / 3 cup plain dry bread crumbs",
+      "1 / 4 cup yellow onion (coarsely grated)",
+      "1 / 4 cup apple butter (Smucker's\u00ae Cider)",
+      "2 tablespoons milk",
+      "2 teaspoons minced garlic",
+      "2 teaspoons Worcestershire sauce",
+      "1 1 / 2 teaspoons salt",
+      "1 / 2 teaspoon pepper",
+      "2 pounds meat loaf mixture (or lean ground beef)",
+      "1 / 4 cup apple butter (Smucker's\u00ae Cider)",
+      "1 / 4 cup ketchup",
+      "1 teaspoon apple cider vinegar"
+    ],
+    "ratings": 5.0,
+    "cookTime": "2 Hours",
+    "serve": 8
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Zucchini-Chips-2614138",
+    "recipeName": "Baked Zucchini Chips",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 zucchini (cut into 1/4 inch slices)",
+      "1 / 2 cup bread crumbs (seasoned dry)",
+      "2 tablespoons grated parmesan cheese",
+      "2 egg whites",
+      "1 / 8 teaspoon black pepper"
+    ],
+    "ratings": 4.5,
+    "cookTime": "20 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Keto-Fathead-Rolls-2681417",
+    "recipeName": "Keto Fathead Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 ounces cream cheese",
+      "3 / 4 cup shredded mozzarella",
+      "1 egg (beaten)",
+      "1 / 4 teaspoon garlic powder",
+      "1 / 3 cup almond flour",
+      "2 teaspoons baking powder",
+      "1 / 2 cup shredded cheddar cheese"
+    ],
+    "ratings": 5.0,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Cheesecake-2482410",
+    "recipeName": "Lemon Cheesecake",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 ounces gingersnap cookies",
+      "1 / 3 cup unsalted butter (and additional softened butter to grease pan)",
+      "35 ounces brick-style cream cheese (room temperature, divided)",
+      "1 1 / 3 cups granulated sugar (divided)",
+      "2 lemons (large)",
+      "1 / 2 cup sour cream",
+      "3 1 / 2 teaspoons vanilla extract (divided)",
+      "1 / 8 teaspoon salt",
+      "4 eggs (room temperature)",
+      "3 / 4 cup heavy cream"
+    ],
+    "ratings": 2.5,
+    "cookTime": "2 Hours",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Chicken-Scallopini-With-Spinach-2594925",
+    "recipeName": "Lemon Chicken Scallopini With Spinach",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 lemon (large)",
+      "1 tablespoon olive oil",
+      "1 pound skinless, boneless chicken breast halves (thin-sliced)",
+      "1 clove garlic (minced)",
+      "3 / 4 cup unsalted chicken stock",
+      "1 can cream of celery soup (Campbell's\u00ae Healthy Request\u00ae Condensed Healthy Request\u00ae)",
+      "4 cups baby spinach"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Roast-Loin-of-Pork-with-Peach-Dijon-Sauce-2663640",
+    "recipeName": "Roast Loin of Pork with Peach Dijon Sauce",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "12 ounces peach preserves (Smucker's\u00ae)",
+      "3 tablespoons dijon mustard",
+      "1 3 / 4 pounds boneless pork sirloin roast",
+      "salt",
+      "pepper",
+      "garlic powder"
+    ],
+    "ratings": 0.0,
+    "cookTime": "100 Minutes",
+    "serve": 5
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Flat-Belly-_-Weight-Loss-Detox-Water-2658056",
+    "recipeName": "Flat Belly & Weight Loss Detox Water",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 grapefruit",
+      "1 ginger",
+      "1 lemon",
+      "1 lime",
+      "1 cucumber (small)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apricot-Walnut-Strudel-Bites-2663666",
+    "recipeName": "Apricot Walnut Strudel Bites",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup butter (softened)",
+      "8 ounces cream cheese (softened)",
+      "2 1 / 2 cups Pillsbury BEST All Purpose Flour (divided)",
+      "1 tablespoon ground cinnamon",
+      "1 / 4 cup sugar",
+      "apricot",
+      "20 ounces fruit",
+      "1 1 / 4 cups raisins",
+      "1 1 / 4 cups chopped walnuts",
+      "powdered sugar"
+    ],
+    "ratings": 0.0,
+    "cookTime": "100 Minutes",
+    "serve": 30
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Parmesan-Roasted-Brussels-Sprouts-2539260",
+    "recipeName": "Parmesan Roasted Brussels Sprouts",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 1 / 2 pounds fresh brussels sprouts (trimmed and halved)",
+      "2 tablespoons olive oil",
+      "1 / 4 cup breadcrumbs",
+      "1 / 2 cup shredded parmesan cheese",
+      "1 teaspoon garlic powder",
+      "1 / 2 teaspoon salt",
+      "1 / 4 teaspoon black pepper"
+    ],
+    "ratings": 4.5,
+    "cookTime": "22 Minutes",
+    "serve": 5
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Brownie-Caramel-Fluff-Desserts-2663655",
+    "recipeName": "Brownie Caramel Fluff Desserts",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "12 1 / 3 ounces fudge brownie mix (Pillsbury\u2122 Sugar Free Chocolate)",
+      "1 / 3 cup Crisco Pure Vegetable Oil",
+      "3 tablespoons water",
+      "1 large egg",
+      "1 / 3 cup caramel (Smucker's\u00ae Sugar Free, Flavored Topping, plus additional for garnish)",
+      "2 cups whipped topping (thawed frozen sugar free)",
+      "2 teaspoons mini semi-sweet chocolate chips"
+    ],
+    "ratings": 0.0,
+    "cookTime": "52 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Pull-Apart-Pizza-2553389",
+    "recipeName": "Pull Apart Pizza",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound pizza dough ({I use my fail-proof pizza dough recipe})",
+      "1 / 2 cup pizza sauce (or as much as you like)",
+      "1 1 / 2 cups shredded mozzarella cheese",
+      "1 / 2 cup sliced pepperoni (thinly)",
+      "pizza toppings (any other, your little heart desires)",
+      "Italian seasoning (to taste)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Elderberry-Syrup-2666970",
+    "recipeName": "Elderberry Syrup",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups elderberries (CERTIFIED ORGANIC)",
+      "4 cinnamon sticks (Organic Whole)",
+      "12 cloves (Organic Raw)",
+      "1 tablespoon ground ginger",
+      "13 cups water",
+      "4 cups honey"
+    ],
+    "ratings": 0.0,
+    "cookTime": "60 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cafe-Caramel-Macchiato-2663500",
+    "recipeName": "Cafe Caramel Macchiato",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups whole milk (divided)",
+      "12 ounces Smucker's Caramel Flavored Topping (divided)",
+      "2 cups coffee (hot, strong brewed Folgers\u00ae French Roast)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "19 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apricot-Sticky-Ribs-2663570",
+    "recipeName": "Apricot Sticky Ribs",
+    "recipePhoto": "https://lh3.googleusercontent.com/DB6dMveJXPautYanBFsYMB-Z6v6q3lpXsr9inwb8PESCABXaWk3c0tT3_LcFsQJtsCecZTTn9ta8WbwKOgullA=s640-c-rw-v1-e365",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "1 / 3 cup fruit (Smucker's\u00ae Simply, \u00ae Apricot Spreadable Fruit)",
+      "1 / 3 cup white vinegar",
+      "1 / 3 cup hoisin sauce",
+      "1 teaspoon gingerroot (grated fresh)",
+      "1 tablespoon minced garlic",
+      "5 pounds baby back ribs"
+    ],
+    "ratings": 0.0,
+    "cookTime": "50 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Pan-seared-Scallops-with-Citrus-Glaze-2663338",
+    "recipeName": "Pan-seared Scallops with Citrus Glaze",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "12 sea scallops (8 to 10 ounces)",
+      "salt",
+      "pepper",
+      "2 teaspoons olive oil",
+      "1 / 4 cup water",
+      "2 tablespoons Smucker's Sweet Orange Marmalade",
+      "1 tablespoon lime juice",
+      "1 / 4 teaspoon lime zest (finely grated)",
+      "1 / 8 teaspoon chili powder",
+      "1 / 8 teaspoon ground cumin",
+      "3 tablespoons butter (cut up)",
+      "chives (Snipped)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "20 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Pizza-Taquitos-2632755",
+    "recipeName": "Baked Pizza Taquitos",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 whole wheat tortillas (or soft multi-grain)",
+      "1 / 2 cup pizza sauce (plus more for dipping)",
+      "2 cups shredded mozzarella cheese",
+      "48 slices pepperoni"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 8
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Parmesan-Roasted-Potatoes-2538996",
+    "recipeName": "Parmesan Roasted Potatoes",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound gold potatoes (or baby red, cut into quarters)",
+      "1 tablespoon olive oil",
+      "1 / 3 cup bread crumbs",
+      "1 1 / 2 teaspoons Italian seasoning",
+      "1 / 2 teaspoon salt",
+      "1 / 4 cup grated parmesan cheese"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Buffalo-Chicken-Tenders-2649610",
+    "recipeName": "Baked Buffalo Chicken Tenders",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 / 3 cup all purpose flour (or panko breadcrumbs, if you prefer a crunchy coating)",
+      "1 / 2 teaspoon cayenne pepper",
+      "1 / 2 teaspoon paprika",
+      "1 / 2 teaspoon garlic powder",
+      "1 / 2 teaspoon salt",
+      "3 boneless skinless chicken breasts (divided into 10 tenders)",
+      "1 / 2 cup butter (melted)",
+      "1 / 2 cup hot sauce"
+    ],
+    "ratings": 4.5,
+    "cookTime": "35 Minutes",
+    "serve": 10
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Yummly-Recipe-Basics_-Tzatziki-Sauce-2668216",
+    "recipeName": "Yummly Recipe Basics: Tzatziki Sauce",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups cucumber (diced)",
+      "1 teaspoon minced garlic",
+      "1 / 4 cup lemon juice",
+      "2 tablespoons fresh dill (chopped)",
+      "2 cups plain greek yogurt",
+      "3 / 4 teaspoon salt",
+      "1 / 4 teaspoon black pepper"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/PB-and-J-Milkshake-2663300",
+    "recipeName": "PB and J Milkshake",
+    "recipePhoto": "https://lh3.googleusercontent.com/wxmaRhldzHiLDD3E9VqwvtnPvptp4IiRCpnG3UgBVuPwMahOERT8ly_t33laalwTE7G-zXaJ7D0a2iUBJPuy=s640-c-rw-v1-e365",
+    "ingredients": [
+      "1 cup strawberry ice cream",
+      "1 / 2 cup milk",
+      "2 tablespoons Smucker's Seedless Strawberry Jam",
+      "2 tablespoons Jif Creamy Peanut Butter"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Twice-Baked-Potatoes-2465554",
+    "recipeName": "Twice Baked Potatoes",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "4 russet potatoes (large, 2 1/2 lb.)",
+      "4 tablespoons butter",
+      "1 / 3 cup sour cream",
+      "1 / 2 cup milk (or half and half)",
+      "1 / 2 teaspoon garlic powder",
+      "1 teaspoon salt",
+      "1 / 4 teaspoon black pepper",
+      "3 / 4 cup shredded cheddar cheese",
+      "paprika (for serving)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "95 Minutes",
+    "serve": 8
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Garlic-Pizza-with-Bacon-and-Onions-2606723",
+    "recipeName": "Garlic Pizza with Bacon and Onions",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 flatbreads (baked, or naan)",
+      "1 / 2 cup pizza sauce (garlic)",
+      "2 cups mozzarella cheese (shredded)",
+      "2 tablespoons parmesan cheese",
+      "4 slices bacon (cooked and crumbled)",
+      "1 / 2 red onion (sliced thinly)",
+      "Italian parsley (flat, chopped, optional)"
+    ],
+    "ratings": 5.0,
+    "cookTime": "20 Minutes",
+    "serve": 8
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cold-Strawberry-and-Basil-Soup-2663406",
+    "recipeName": "Cold Strawberry and Basil Soup",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 pints strawberries",
+      "2 cups vanilla Greek yogurt (plus additional for garnish)",
+      "1 cup seedless strawberry jam (Smucker's\u00ae Sugar Free)",
+      "1 cup orange marmalade (Smucker's\u00ae Sugar Free)",
+      "1 1 / 2 tablespoons fresh basil (minced)",
+      "1 / 8 teaspoon salt",
+      "1 / 8 teaspoon pepper",
+      "basil (for garnish)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 7
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Extra-Creamy-Scalloped-Potatoes-2465546",
+    "recipeName": "Extra Creamy Scalloped Potatoes",
+    "recipePhoto": "https://lh3.googleusercontent.com/E9kc287H-AkWGlODWNhhydRg0RWCaIr4BtjhsePx9z75gBkGd41akrlY78Apn5WtEjpTFx6IUCpNcAYRStviUT0=s640-c-rw-v1-e365",
+    "ingredients": [
+      "9 yukon gold potatoes (2 1/2 lb.)",
+      "1 clove garlic",
+      "2 tablespoons butter",
+      "3 tablespoons flour",
+      "1 cup whole milk",
+      "1 / 2 cup heavy cream",
+      "3 / 4 teaspoon salt (divided)",
+      "black pepper (to taste)",
+      "1 / 4 cup grated parmesan cheese",
+      "1 cup shredded cheddar (or Gruyere cheese)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "55 Minutes",
+    "serve": 7
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Lime-Virgin-Margarita-1643123",
+    "recipeName": "Lemon Lime Virgin Margarita",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups ice",
+      "1 lemon",
+      "2 limes",
+      "1 / 2 Orange",
+      "12 ounces club soda (lemon flavored)",
+      "0 liquid sweetener"
+    ],
+    "ratings": 4.0,
+    "cookTime": "10 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Calico-Cabbage-2682677",
+    "recipeName": "Calico Cabbage",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "4 cups cabbage (coarsely chopped)",
+      "3 ounces onion (sliced large, I used a purple onion)",
+      "2 ounces red bell pepper (diced large)",
+      "2 ounces green bell pepper (diced large)",
+      "1 / 2 jalapeno (large, seeded and slivered thin, more if you want any real \u201cheat\u201d)",
+      "12 ounces smoked sausage (Burton\u2019s, sliced, no sugar added)",
+      "black pepper (Dash coarse)"
+    ],
+    "ratings": 4.0,
+    "cookTime": "35 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Individual-Garlic-Parmesan-Potatoes-Au-Gratin-2465578",
+    "recipeName": "Individual Garlic Parmesan Potatoes Au Gratin",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 tablespoons butter (softened)",
+      "5 yukon gold potatoes (1 1/2 lb.)",
+      "1 / 2 teaspoon garlic powder",
+      "1 teaspoon salt",
+      "black pepper (to taste)",
+      "3 / 4 cup heavy cream",
+      "1 / 3 cup grated parmesan cheese (freshly)",
+      "2 sprigs fresh thyme"
+    ],
+    "ratings": 0.0,
+    "cookTime": "30 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Oatmeal-Carmelitas-2663668",
+    "recipeName": "Oatmeal Carmelitas",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 cups Pillsbury BEST All Purpose Flour",
+      "2 cups quick-cooking rolled oats",
+      "1 1 / 2 cups firmly packed light brown sugar",
+      "1 teaspoon baking soda",
+      "1 / 2 teaspoon salt",
+      "1 1 / 4 cups butter (or margarine, softened)",
+      "1 jar Smucker's Caramel Flavored Topping",
+      "3 tablespoons Pillsbury BEST All Purpose Flour",
+      "6 ounces semi sweet chocolate chips (1 cup)",
+      "1 / 2 cup chopped nuts"
+    ],
+    "ratings": 4.0,
+    "cookTime": "60 Minutes",
+    "serve": 18
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Peanut-Butter-Banana-Apple-Smoothie-2682213",
+    "recipeName": "Peanut Butter Banana Apple Smoothie",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 banana (peeled)",
+      "1 apple (cored and sliced)",
+      "2 tablespoons peanut butter",
+      "1 cup crushed ice"
+    ],
+    "ratings": 4.5,
+    "cookTime": "10 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Meltaway-Cookies-2231429",
+    "recipeName": "Lemon Meltaway Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup butter (salted, not margarine)",
+      "1 / 3 cup sugar (plus 2 TBSP)",
+      "1 tablespoon lemon zest (approx. 1 \u2013 2 lemons)",
+      "1 tablespoon lemon juice (fresh)",
+      "2 1 / 4 cups all-purpose flour",
+      "icing sugar (for dusting cookies)"
+    ],
+    "ratings": 4.0,
+    "cookTime": "35 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Weight-Watchers-Donuts-2690809",
+    "recipeName": "Weight Watchers Donuts",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup nonfat greek yogurt",
+      "1 cup self rising flour (divided)",
+      "1 tablespoon vanilla bean paste",
+      "1 / 2 cup splenda (cinnamon, mixture)",
+      "glaze (optional:, powdered sugar + water mixed)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "30 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Shortcut-Cinnamon-Rolls-1878413",
+    "recipeName": "Easy Shortcut Cinnamon Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound frozen pizza dough (ball)",
+      "1 / 4 cup softened butter",
+      "3 / 4 cup granulated sugar",
+      "2 teaspoons ground cinnamon",
+      "1 / 2 teaspoon vanilla",
+      "1 cup powdered sugar",
+      "1 / 4 teaspoon vanilla",
+      "1 tablespoon water"
+    ],
+    "ratings": 4.5,
+    "cookTime": "60 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/90-Second-Keto-Bread-2522875",
+    "recipeName": "90 Second Keto Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "3 tablespoons almond flour (We like Bob\u2019s Red Mill)",
+      "1 egg",
+      "1 / 2 teaspoon baking powder",
+      "1 / 2 teaspoon salt",
+      "2 tablespoons butter (1 tbs melted, 1 tbs saved for later)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Detox-Water-Drink-To-Flush-Fat-2171212",
+    "recipeName": "Detox Water Drink To Flush Fat",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 filtered water (Pitcher)",
+      "1 handful strawberries",
+      "3 lemons (Sliced)",
+      "1 cucumber (Sliced)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Grilled-Cheese-Hot-Dogs-2576089",
+    "recipeName": "Grilled Cheese Hot Dogs",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "6 hot dog buns (I use top sliced buns)",
+      "6 hot dogs",
+      "3 cups monterey jack (shredded, and cheddar cheeses, mixed)",
+      "6 tablespoons butter (soft, for brushing buns)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "10 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Best-Ever-Bacon-Wrapped-Chicken-Tenders-2683836",
+    "recipeName": "Best Ever Bacon Wrapped Chicken Tenders",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 1 / 2 pounds chicken tenders (about 10 chicken tenders)",
+      "10 slices bacon",
+      "2 / 3 cup firmly packed brown sugar",
+      "1 tablespoon chili powder",
+      "bacon",
+      "chicken tenders"
+    ],
+    "ratings": 0.0,
+    "cookTime": "30 Minutes",
+    "serve": 10
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Cheesy-Keto-Biscuits-2552871",
+    "recipeName": "Cheesy Keto Biscuits",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 ounces cream cheese",
+      "3 cups shredded mozzarella cheese",
+      "4 eggs",
+      "4 tablespoons baking powder",
+      "1 1 / 3 cups almond flour",
+      "2 tablespoons melted butter"
+    ],
+    "ratings": 4.5,
+    "cookTime": "40 Minutes",
+    "serve": 16
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Classic-French-Toast-2488045",
+    "recipeName": "Classic French Toast",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "6 bread slices (thick)",
+      "2 egg",
+      "2 / 3 cup milk",
+      "3 teaspoons butter",
+      "1 / 4 teaspoon cinnamon (ground)",
+      "1 teaspoon vanilla extract",
+      "1 pinch salt"
+    ],
+    "ratings": 4.5,
+    "cookTime": "25 Minutes",
+    "serve": 3
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/PB-and-J-Bars-2663331",
+    "recipeName": "PB and J Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "1 1 / 4 cups Pillsbury BEST All Purpose Flour",
+      "1 / 2 cup sugar",
+      "1 teaspoon baking powder",
+      "1 / 4 teaspoon salt",
+      "2 tablespoons Crisco Pure Vegetable Oil",
+      "1 large egg",
+      "1 / 2 cup chunky peanut butter (Smucker's\u00ae Natural)",
+      "1 / 2 cup Smucker's Seedless Strawberry Jam"
+    ],
+    "ratings": 0.0,
+    "cookTime": "45 Minutes",
+    "serve": 16
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Butter-Garlic-Shrimp-With-Angel-Hair-Pasta-2587191",
+    "recipeName": "Lemon Butter Garlic Shrimp With Angel Hair Pasta",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 ounces angel hair pasta (cooked according to package directions, half of a 1-pound box)",
+      "1 / 2 cup unsalted butter (1 stick)",
+      "1 teaspoon garlic powder (or to taste)",
+      "1 pound large shrimp (peeled, de-veined, and cleaned with tails off, I prefer 12-15 count shrimp)",
+      "1 / 2 teaspoon salt",
+      "1 / 2 teaspoon pepper",
+      "1 / 4 cup lemon juice",
+      "1 teaspoon lemon zest (optional)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "15 Minutes",
+    "serve": 3
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Bacon-Wrapped-Cheese-Hot-Dogs-2667149",
+    "recipeName": "Bacon Wrapped Cheese Hot Dogs",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 hot dogs",
+      "1 / 2 cup shredded cheese",
+      "16 slices bacon (pre-cooked)",
+      "8 hot dog buns (toasted)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "20 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Fruity-Balsamic-Vinaigrette-2663697",
+    "recipeName": "Fruity Balsamic Vinaigrette",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 2 cup Smucker's Strawberry Preserves",
+      "2 tablespoons balsamic vinegar",
+      "1 tablespoon water",
+      "1 1 / 2 teaspoons dijon mustard",
+      "1 / 2 teaspoon minced garlic",
+      "1 / 4 teaspoon pepper",
+      "1 / 8 teaspoon salt",
+      "1 / 4 cup Crisco Pure Canola Oil"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 75
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Peanut-Butter-Crunch-Bars-2663694",
+    "recipeName": "Peanut Butter Crunch Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "6 tablespoons butter",
+      "1 cup Smucker's Natural Creamy Peanut Butter (stirred)",
+      "1 3 / 4 cups powdered sugar",
+      "1 1 / 2 cups corn flakes",
+      "1 1 / 4 cups semi sweet chocolate chips"
+    ],
+    "ratings": 0.0,
+    "cookTime": "15 Minutes",
+    "serve": 18
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Dutch-Baby-2663383",
+    "recipeName": "Dutch Baby",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "3 eggs",
+      "1 / 2 cup milk",
+      "1 / 2 cup all purpose flour",
+      "1 teaspoon vanilla extract",
+      "1 / 4 cup butter",
+      "powdered sugar",
+      "red raspberry preserves (Smucker's\u00ae, or your favorite flavor)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "30 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/CROCK-POT-APPLE-CINNAMON-ROLL-CASSEROLE-2541087",
+    "recipeName": "CROCK POT APPLE CINNAMON ROLL CASSEROLE",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "24 ounces cinnamon rolls",
+      "2 cups apples (peeled and chopped, about 2 large apples)",
+      "4 large eggs",
+      "1 / 2 cup half and half",
+      "1 / 4 cup maple syrup",
+      "1 teaspoon vanilla extract",
+      "1 / 2 teaspoon ground cinnamon"
+    ],
+    "ratings": 4.5,
+    "cookTime": "55 Minutes",
+    "serve": 10
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Spicy-Jezebel-Dip-2663510",
+    "recipeName": "Spicy Jezebel Dip",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 2 cup apricot preserves (Smucker's\u00ae)",
+      "1 tablespoon prepared horseradish",
+      "1 teaspoon dijon mustard",
+      "1 / 2 teaspoon pepper",
+      "8 ounces cream cheese",
+      "green onion (Sliced)",
+      "crackers (Assorted)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 16
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Fettuccine-2560800",
+    "recipeName": "Easy Fettuccine",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound fettuccine pasta",
+      "2 tablespoons butter",
+      "2 teaspoons minced garlic",
+      "1 pint heavy cream",
+      "1 cup parmesan cheese (grated)",
+      "1 / 2 teaspoon garlic powder"
+    ],
+    "ratings": 4.5,
+    "cookTime": "5 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Creme-Brulee-2670941",
+    "recipeName": "Cre\u0300me Bru\u0302le\u0301e",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "6 egg yolks",
+      "1 / 2 cup white sugar (for the egg mixture)",
+      "1 vanilla bean",
+      "2 cups heavy cream",
+      "1 teaspoon white sugar (for sprinkling on top at the end)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "55 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Sweet-Potatoes-Au-Gratin-2465576",
+    "recipeName": "Easy Sweet Potatoes Au Gratin",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "3 sweet potatoes (medium, 1 lb.)",
+      "salt",
+      "black pepper (to taste)",
+      "3 / 4 cup heavy cream",
+      "2 sprigs fresh thyme",
+      "1 / 8 teaspoon nutmeg",
+      "2 tablespoons grated parmesan cheese (freshly)",
+      "1 / 4 cup grated Gruyere cheese (freshly)"
+    ],
+    "ratings": 5.0,
+    "cookTime": "50 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Pork-Chops-with-Raspberry-Balsamic-Glaze-2663714",
+    "recipeName": "Pork Chops with Raspberry Balsamic Glaze",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 tablespoon Crisco Pure Vegetable Oil",
+      "32 ounces loin pork chops (1-inch thick)",
+      "salt",
+      "pepper",
+      "1 / 2 cup raspberry fruit spread (Smucker\u2019s\u00ae Natural Red)",
+      "2 tablespoons balsamic vinegar",
+      "1 / 2 teaspoon dried basil leaves"
+    ],
+    "ratings": 4.0,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/5-Ingredient-Granola-Bars-2667470",
+    "recipeName": "5-Ingredient Granola Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup natural peanut butter (or 1-1/2 cups natural almond butter)",
+      "3 / 4 cup honey",
+      "4 cups granola (pre-made dark chocolate almond, or your favorite pre-made granola flavor)",
+      "1 cup old fashioned oatmeal",
+      "3 / 4 cup dark chocolate chips (divided)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "5 Minutes",
+    "serve": 22
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Red_-White-and-Blue-Lemonade-Mocktail-1945406",
+    "recipeName": "Red, White and Blue Lemonade Mocktail",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 bottle lemonade (Simply)",
+      "1 lemon (sliced)",
+      "1 cup strawberries (sliced)",
+      "1 cup blueberries",
+      "lemon lime soda (splash of, or seltzer)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 2
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Caramel-Pecan-Pie-2663721",
+    "recipeName": "Caramel Pecan Pie",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Classic Crisco Pie Crust (Single Crust)",
+      "3 large eggs",
+      "2 / 3 cup sugar",
+      "12 1 / 4 ounces Smucker's Caramel Flavored Topping",
+      "1 / 4 cup butter (melted)",
+      "1 1 / 2 cups pecan halves"
+    ],
+    "ratings": 0.0,
+    "cookTime": "55 Minutes",
+    "serve": 10
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Homemade-Butterbeer-_the-Harry-Potter-drink__-2662198",
+    "recipeName": "Homemade Butterbeer (the Harry Potter drink!)",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "8 ice cubes",
+      "1 3 / 4 quarts vanilla ice cream (container of)",
+      "24 ounces cream soda",
+      "6 ounces ice cream (butterscotch flavored, topping)",
+      "whipped cream",
+      "butterscotch topping"
+    ],
+    "ratings": 0.0,
+    "cookTime": "10 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Strawberry-Brownies-2578973",
+    "recipeName": "Strawberry Brownies",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 box strawberry cake mix",
+      "1 / 3 cup vegetable oil (or melted butter)",
+      "1 egg",
+      "4 ounces cream cheese",
+      "1 / 2 cup strawberries (thinly sliced fresh)"
+    ],
+    "ratings": 2.5,
+    "cookTime": "30 Minutes",
+    "serve": 15
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Fruit-Salsa-2663326",
+    "recipeName": "Fruit Salsa",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 4 cup Smucker's Seedless Strawberry Jam",
+      "2 cups strawberries (chopped fresh)",
+      "1 cup fresh blueberries",
+      "1 cup fresh pineapple (chopped)",
+      "2 kiwi (peeled and chopped)",
+      "cinnamon sugar",
+      "pita chips"
+    ],
+    "ratings": 0.0,
+    "cookTime": "15 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Mediterranean-Grilled-Artichokes-2401284",
+    "recipeName": "Mediterranean Grilled Artichokes",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "2 artichokes",
+      "1 tablespoon olive oil",
+      "1 lemon (Cut in half)",
+      "1 / 4 teaspoon oregano",
+      "1 / 4 teaspoon thyme",
+      "1 / 4 teaspoon rosemary",
+      "1 / 4 teaspoon garlic salt"
+    ],
+    "ratings": 4.0,
+    "cookTime": "50 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Spaghetti-Shrimp-Scampi-2675375",
+    "recipeName": "Spaghetti Shrimp Scampi",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 pound spaghetti",
+      "1 tablespoon olive oil",
+      "3 tablespoons butter",
+      "3 cloves garlic (minced)",
+      "1 pound medium shrimp (peel and deveined)",
+      "1 / 4 cup white wine",
+      "1 lemon",
+      "salt (to taste)",
+      "black pepper (to taste)",
+      "1 / 4 cup fresh parsley (minced)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "30 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/The-BEST-Restaurant-Style-Salsa-2507963",
+    "recipeName": "The BEST Restaurant-Style Salsa",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 jalape\u00f1o (seeds removed if you like it mild)",
+      "1 / 2 white onion (a medium sized)",
+      "1 cup cilantro",
+      "14 1 / 2 ounces fire roasted tomatoes (cans)",
+      "1 teaspoon salt",
+      "1 lime",
+      "1 / 4 teaspoon sugar"
+    ],
+    "ratings": 5.0,
+    "cookTime": "25 Minutes",
+    "serve": 4
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Double-Strawberry-Muffins-2663596",
+    "recipeName": "Double Strawberry Muffins",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "Crisco Original No-Stick Cooking Spray",
+      "1 1 / 2 cups Pillsbury BEST All Purpose Flour",
+      "1 1 / 2 teaspoons baking powder",
+      "1 / 4 teaspoon salt",
+      "1 / 2 cup sugar",
+      "1 large egg",
+      "1 / 2 cup buttermilk",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon grated lemon peel (finely)",
+      "1 / 3 cup Crisco Pure Canola Oil",
+      "1 / 4 cup Smucker's Seedless Strawberry Jam",
+      "3 / 4 cup strawberries (fresh, diced)"
+    ],
+    "ratings": 0.0,
+    "cookTime": "25 Minutes",
+    "serve": 12
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/4-Ingredient-Gut-Tonic-for-Weight-Loss_-Digestion-_-Immunity-2427576",
+    "recipeName": "4-Ingredient Gut Tonic for Weight Loss, Digestion & Immunity",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 tablespoon apple cider vinegar (the bottle should say, \"with the mother\")",
+      "1 teaspoon raw honey",
+      "1 / 4 teaspoon ground cinnamon",
+      "1 pinch sea salt",
+      "1 cup filtered water"
+    ],
+    "ratings": 4.5,
+    "cookTime": "15 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Bars-2440470",
+    "recipeName": "Lemon Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 cup unsalted butter (softened)",
+      "2 3 / 4 cups granulated sugar (divided)",
+      "1 teaspoon vanilla extract",
+      "2 1 / 2 cups all purpose flour (divided)",
+      "1 salt (scant tsp.)",
+      "6 eggs",
+      "3 lemons (large)",
+      "3 / 4 cup lemon juice",
+      "powdered sugar (dusting)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "65 Minutes",
+    "serve": 15
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Keto-Ham-and-Cheese-Rolls-2625137",
+    "recipeName": "Easy Keto Ham and Cheese Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "3 / 4 cup shredded mozzarella cheese",
+      "1 / 2 cup shredded cheddar cheese",
+      "1 / 2 cup grated parmesan (or asiago, other hard, dry, grated cheese.)",
+      "1 cup diced ham",
+      "2 eggs"
+    ],
+    "ratings": 4.5,
+    "cookTime": "20 Minutes",
+    "serve": 7
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Southern-Salmon-Patties-2557377",
+    "recipeName": "Southern Salmon Patties",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "14 3 / 4 ounces pink salmon",
+      "1 / 2 onion (chopped)",
+      "2 eggs",
+      "3 / 4 cup breadcrumbs",
+      "1 teaspoon lemon juice",
+      "1 / 2 teaspoon salt",
+      "1 / 2 teaspoon ground pepper"
+    ],
+    "ratings": 4.5,
+    "cookTime": "20 Minutes",
+    "serve": 6
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Apricot-Dijon-Dipping-Sauce-2663642",
+    "recipeName": "Apricot Dijon Dipping Sauce",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "1 / 2 cup apricot preserves (Smucker's\u00ae)",
+      "1 / 4 cup Dijon-style mustard",
+      "red pepper flakes"
+    ],
+    "ratings": 0.0,
+    "cookTime": "5 Minutes",
+    "serve": 1
+  },
+  {
+    "recipeUrl": "https://www.yummly.com/recipe/Taco-Stuffed-Shells-2206364",
+    "recipeName": "Taco Stuffed Shells",
+    "recipePhoto": "https://x.yummlystatic.com/s/3b5725454/img/1x1.png",
+    "ingredients": [
+      "12 ounces jumbo pasta shells",
+      "1 pound ground beef",
+      "1 packet taco seasoning",
+      "2 / 3 cup water",
+      "1 1 / 2 cups salsa (jarred, divided)",
+      "1 cup shredded cheddar cheese (divided)"
+    ],
+    "ratings": 4.5,
+    "cookTime": "30 Minutes",
+    "serve": 6
+  }
+]
